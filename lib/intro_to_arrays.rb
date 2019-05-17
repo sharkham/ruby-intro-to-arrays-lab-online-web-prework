@@ -6,6 +6,6 @@ def array_with_two_elements
   @my_two_array = ["supergirl", "martian manhunter"]
 end 
 
-def my_first_element(array)
+def first_element(array)
   array[0]
 end 
